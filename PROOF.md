@@ -1,6 +1,10 @@
 # slopscan proof
 
-Captured 2026-11-09 12:15 PST on the box.
+Captured 2026-11-09 13:27 PST.
+
+Fresh-venv install: `pip install .` succeeded and `slopscan --version` printed `slopscan 0.1.1`.
+
+Tests: 13 passed in 0.02s
 
 ```
 verdict: high  score: 100

@@ -9,7 +9,7 @@ import sys
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 # Original, documented pattern list. These are common public-domain tells,
 # not a copy of any commercial or open-source "unslop" word list.
